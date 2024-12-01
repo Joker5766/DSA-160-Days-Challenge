@@ -5,6 +5,7 @@
 - Iterate through the array:  
   - Update `largest` if the current element is greater.  
   - Update `secondLargest` if the current element is between `largest` and its previous value.  
+![Day 1 Output](./Day1-Screenshot.png)
 
 **Code**:  
 ```java
