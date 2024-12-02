@@ -1,4 +1,4 @@
-## Day 2: Reverse an Array
+## Day 3: Reverse an Array
 
 **Problem**: You are given an array of integers arr[]. The task is to reverse the given array.  
 **Approach**: 
