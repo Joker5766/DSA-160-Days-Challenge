@@ -1,6 +1,7 @@
 ## Day 6: Majority Element II
 
-**Problem**:You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes, If there's not a majority vote, return an empty array.  
+**Problem**: You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes, If there's not a majority vote, return an empty array.  
+
 **Approach**:
   - Use a map to count how many times each number appears.
   - Traverse the array and for each number, increase its count in the map.
@@ -20,7 +21,6 @@ class Solution6 {
         Map<Integer, Integer> countMap = new HashMap<>();
         for (int num: nums){
             countMap.put(num, countMap.getOrDefault(num, 0) + 1);
-            //This is where we are storing in a map key(i.e. Number) and its value(i.e. Times it appeared)
         }
         List<Integer> myList = new ArrayList<>();
         for (Map.Entry<Integer, Integer> entry: countMap.entrySet()){
