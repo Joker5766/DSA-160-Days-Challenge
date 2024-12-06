@@ -5,3 +5,4 @@
 - [Day 4: Solved "Rotate Array"](./Day4.md)
 - [Day 5: Solved "Next Permutation"](./Day5.md)
 - [Day 6: Solved "Majority Element II"](./Day6.md)
+- [Day 7: Solved "Stock Buy and Sell – Multiple Transaction Allowed"](./Day7.md)
