@@ -1,1 +1,2 @@
 - [Day 8: Solved "Stock Buy and Sell – Max one Transaction Allowed"](./Day8.md)
+- [Day 9: Solved "Minimize the Heights II"](./Day9.md)
