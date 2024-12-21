@@ -4,3 +4,4 @@
 - [Day 11: Solved "Maximum Product Subarray"](./Day11.md)
 - [Day 12: Solved "Max Circular Subarray Sum"](./Day12.md)
 - [Day 13: Solved "Smallest Positive Missing Number"](./Day13.md)
+- [Day 14: Solved "Implement Atoi"](./Day14.md)
