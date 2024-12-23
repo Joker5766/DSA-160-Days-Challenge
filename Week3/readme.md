@@ -1,1 +1,2 @@
 - [Day 15: Solved "Add Binary Strings"](./Day15.md)
+- [Day 16: Solved "Anagram"](./Day16.md)
