@@ -1,3 +1,4 @@
 - [Day 15: Solved "Add Binary Strings"](./Day15.md)
 - [Day 16: Solved "Anagram"](./Day16.md)
 - [Day 17: Solved "Non Repeating Character"](./Day17.md)
+- [Day 18: Solved "Search Pattern (KMP-Algorithm)"](./Day18.md)
