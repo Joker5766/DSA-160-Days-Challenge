@@ -2,3 +2,4 @@
 - [Day 16: Solved "Anagram"](./Day16.md)
 - [Day 17: Solved "Non Repeating Character"](./Day17.md)
 - [Day 18: Solved "Search Pattern (KMP-Algorithm)"](./Day18.md)
+- [Day 19: Solved "Min Chars to Add for Palindrome"](./Day19.md)
