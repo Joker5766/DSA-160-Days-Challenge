@@ -4,3 +4,4 @@
 - [Day 18: Solved "Search Pattern (KMP-Algorithm)"](./Day18.md)
 - [Day 19: Solved "Min Chars to Add for Palindrome"](./Day19.md)
 - [Day 20: Solved "Strings Rotations of Each Other"](./Day20.md)
+- [Day 21: Solved "Sort 0s, 1s and 2s"](./Day21.md)
