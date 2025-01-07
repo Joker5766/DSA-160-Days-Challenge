@@ -1,2 +1,3 @@
 - [Day 22: Solved "Find H-Index"](./Day22.md)
 - [Day 23: Solved "Reverse Pairs"](./Day23.md)
+- [Day 24: Solved "Jump Game"](./Day24.md)
