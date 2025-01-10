@@ -1,5 +1,5 @@
 - [Day 22: Solved "Find H-Index"](./Day22.md)
 - [Day 23: Solved "Reverse Pairs"](./Day23.md)
 - [Day 24: Solved "Jump Game"](./Day24.md)
-- [Day 25: Solved "Majority Element"](./Day24.md)
-- [Day 26: Solved "Number of Occurrence"](./Day24.md)
+- [Day 25: Solved "Majority Element"](./Day25.md)
+- [Day 26: Solved "Number of Occurrence"](./Day26.md)
