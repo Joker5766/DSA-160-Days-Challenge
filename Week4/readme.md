@@ -3,3 +3,4 @@
 - [Day 24: Solved "Jump Game"](./Day24.md)
 - [Day 25: Solved "Majority Element"](./Day25.md)
 - [Day 26: Solved "Number of Occurrence"](./Day26.md)
+- [Day 27: Solved "Is Subsequence"](./Day27.md)
