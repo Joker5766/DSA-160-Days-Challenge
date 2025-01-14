@@ -1,1 +1,2 @@
 - [Day 29: Solved "Container With Most Water"](./Day29.md)
+- [Day 30: Solved "Two Sum II - Input Array Is Sorted"](./Day30.md)
