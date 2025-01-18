@@ -3,3 +3,4 @@
 - [Day 31: Solved "Happy Number"](./Day31.md)
 - [Day 32: Solved "Word Pattern"](./Day32.md)
 - [Day 33: Solved "Product of Array Except Self"](./Day33.md)
+- [Day 34: Solved "Ransom Note"](./Day34.md)
