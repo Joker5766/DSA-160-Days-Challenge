@@ -1,1 +1,1 @@
-
+- [Day 36: Solved "Isomorphic Strings"](./Day36.md)
