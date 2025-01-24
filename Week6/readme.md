@@ -1,2 +1,3 @@
 - [Day 36: Solved "Isomorphic Strings"](./Day36.md)
 - [Day 37: Solved "3Sum"](./Day37.md)
+- [Day 38: Solved "3Sum"](./Day38.md)
