@@ -1,3 +1,4 @@
 - [Day 36: Solved "Isomorphic Strings"](./Day36.md)
 - [Day 37: Solved "3Sum"](./Day37.md)
 - [Day 38: Solved "Minimum Size Subarray Sum"](./Day38.md)
+- [Day 39: Solved "Contains Duplicate II"](./Day39.md)
