@@ -2,3 +2,4 @@
 - [Day 37: Solved "3Sum"](./Day37.md)
 - [Day 38: Solved "Minimum Size Subarray Sum"](./Day38.md)
 - [Day 39: Solved "Contains Duplicate II"](./Day39.md)
+- [Day 40: Solved "Course Schedule IV"](./Day40.md)
