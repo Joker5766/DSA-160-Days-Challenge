@@ -3,3 +3,4 @@
 - [Day 38: Solved "Minimum Size Subarray Sum"](./Day38.md)
 - [Day 39: Solved "Contains Duplicate II"](./Day39.md)
 - [Day 40: Solved "Course Schedule IV"](./Day40.md)
+- [Day 41: Solved "Linked List Cycle"](./Day41.md)
