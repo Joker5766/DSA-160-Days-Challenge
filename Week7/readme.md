@@ -1,1 +1,1 @@
-
+- [Day 43: Solved "Summary Ranges"](./Day43.md)
