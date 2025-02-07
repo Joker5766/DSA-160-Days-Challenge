@@ -1,3 +1,4 @@
 - [Day 43: Solved "Summary Ranges"](./Day43.md)
 - [Day 44: Solved "Merge Strings Alternately"](./Day44.md)
 - [Day 45: Solved "Plus One"](./Day45.md)
+- [Day 46: Solved "Pow(x, n)"](./Day46.md)
