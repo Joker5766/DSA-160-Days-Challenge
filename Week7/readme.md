@@ -4,3 +4,4 @@
 - [Day 46: Solved "Pow(x, n)"](./Day46.md)
 - [Day 47: Solved "Single Number"](./Day47.md)
 - [Day 48: Solved "Number of 1 Bits"](./Day48.md)
+- [Day 49: Solved "Sqrt(x)"](./Day49.md)
