@@ -1,1 +1,1 @@
-
+- [Day 50: Solved "Power of Two"](./Day50.md)
