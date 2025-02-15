@@ -1,1 +1,2 @@
 - [Day 50: Solved "Power of Two"](./Day50.md)
+- [Day 51: Solved "Missing Number"](./Day51.md)
