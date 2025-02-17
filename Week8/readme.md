@@ -1,2 +1,3 @@
 - [Day 50: Solved "Power of Two"](./Day50.md)
 - [Day 51: Solved "Missing Number"](./Day51.md)
+- [Day 52: Solved "Integer to Roman"](./Day52.md)
